@@ -1,5 +1,6 @@
 # NanoPi-R4S 的 OpenWrt 固件  
-![R4S-OpenWrt-Lean](https://github.com/RikudouPatrickstar/R4S-OpenWrt-Lean/workflows/R4S-OpenWrt-Lean/badge.svg)  
+![R4S-1G-OpenWrt-Lean](https://github.com/RikudouPatrickstar/R4S-OpenWrt-Lean/workflows/R4S-1G-OpenWrt-Lean/badge.svg)  
+![R4S-4G-OpenWrt-Lean](https://github.com/RikudouPatrickstar/R4S-OpenWrt-Lean/workflows/R4S-4G-OpenWrt-Lean/badge.svg)  
 
 ## 一、固件特性  
 ### 基于 [coolsnowwolf/lede](https://github.com/coolsnowwolf/lede) 并做如下修改：  
